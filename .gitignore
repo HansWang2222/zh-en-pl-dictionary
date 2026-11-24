@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# archives / release artifacts
+*.zip
+*.7z
+*.tar.gz
+dist/
+
+# local notes
+*.local.md
